@@ -1,0 +1,100 @@
+{
+  "name": "Mimii",
+  "birth": "1999-11-23",
+  "tog": "2025-09-09",
+  "header": {
+    "src": "images/header.jpg.jpeg"
+  },
+  "message": "semoga menua selalu terasa seperti pulang.\nseperti jalan setapak yang makin kau kenali lekuknya\nseperti suara yang makin kau percaya nadanya\nseperti aku yang masih memilih duduk di sini\nmenyaksikan waktu menulis riwayat di wajahmu, tanpa ingin memalingkan mata sedikit pun.\nsemoga menua tidak pernah menjadi beban,\nmelainkan babak baru yang kau tulis dengan tinta lembut dengan akhir paragraf yang selalu berisi “aku baik-baik saja, dan itu bukan dusta”.\ndan jika kau lelah menghitung angka, ingatlah,\naku masih menyimpan semua versi dirimu yang muda, yang patah, yang bangkit, yang utuh dan semuanya layak untuk dicintai..\n\nI Once again, selamat ulang tahun, Aku mencintaimu dengan penuh ❤️.",
+  "reasons": [
+    "You can make me laugh even on the hardest days.",
+    "You listen patiently, even when my stories run long.",
+    "The way you care about the little things.",
+    "You make me want to be a better version of myself.",
+    "Your smile changes the mood of the whole room.",
+    "You are warm, honest, and completely yourself."
+  ],
+  "milestones": [
+    {
+      "title": "The day we met",
+      "text": "Where it all began",
+      "media": "images/foto_highlight_pink.jpg", 
+      "caption": "Sorry Hakimm, depin dan fibulaaa :((" 
+    },
+    {
+      "title": "Our first date",
+      "text": "Nervous but so much fun",
+      "media": "images/picture2.jpeg", 
+      "caption": "NGEPUNK DI BANDUNK !!!!!!!"
+    },
+    {
+      "title": "The day we got together",
+      "text": "Officially us",
+      "media": "images/pictures3.jpeg", 
+      "caption": "look how happy we are"
+    },
+    {
+      "title": "Our first trip",
+      "text": "Lots of photos, lots of laughs",
+      "media": "images/video1.mp4", 
+      "caption": "Luh pegang tangan gwe?"
+    },
+    {
+      "title": "Today",
+      "text": "Celebrating you",
+      "media": "images/Screenshot 2026-11-19 130546.png",
+      "caption": "maaf klo jelek bub namanya jg coding otodidak"
+    }
+  ],
+  "todo": [
+    {
+      "text": "Birthday cake",
+      "done": false
+    },
+    {
+      "text": "Main gift",
+      "done": true
+    },
+    {
+      "text": "Special dinner",
+      "done": false
+    },
+    {
+      "text": "Photos together",
+      "done": true
+    },
+    {
+      "text": "Wishes from family and friends",
+      "done": false
+    }
+  ],
+  "meters": [
+    {
+      "label": "Laughing together",
+      "value": 92
+    },
+    {
+      "label": "Fun dates",
+      "value": 85
+    },
+    {
+      "label": "Supporting each other",
+      "value": 96
+    },
+    {
+      "label": "Sweet surprises",
+      "value": 78
+    }
+  ],
+  "gallery": [{ "src": "images/Picture11.jpeg", "caption": "mam burger mahal tapi g enak" }, 
+    { "src": "images/pictures12.jpeg", "caption": "jalan ke cafe perpus tapi gaada buku yg dibaca" }, 
+    { "src": "images/picture13.jpeg", "caption": "main ke scbd" }, 
+    { "src": "images/picture14.jpeg", "caption": "museum date pertamaa" },
+    { "src": "images/picture15.jpeg", "caption": "tiba tiba jd barista" }, 
+    { "src": "images/picture16.mp4", "caption": "meluncurrrr HAHAHAHAHAH" }, 
+    { "src": "images/picture17.jpeg", "caption": "nonton laut bercerita" },
+    { "src": "images/picture18.jpeg", "caption": "pelari kuliner /// mam baso juga di senayan" }, 
+    { "src": "images/picture20.mp4", "caption": "sesi matcha yang selalu ku bencii" }, 
+    { "src": "images/picture21.mp4", "caption": "dinner makanan narapidana" }
+]
+}
