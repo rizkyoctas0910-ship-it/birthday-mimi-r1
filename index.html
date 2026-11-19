@@ -138,7 +138,7 @@ function render(){
   $("prog").style.width=pc+"%";$("progTxt").textContent=dn+" of "+td.length+" ready ("+pc+"%)";
   var ul=$("tl");ul.innerHTML="";
   (D.milestones||[]).forEach(function(m){var li=document.createElement("li");li.innerHTML="<b>"+esc(m.title)+"</b><span>"+esc(m.text)+"</span>";
-    if(m.media){var a=document.createElement("div");a.className="acts";var bt=document.createElement("button");bt.className="v";bt.textContent=isVid(m.media)?"▶ Watch video":"📷 View photo";bt.onclick=function(){openLb(m.media,m.title)};a.appendChild(bt);li.appendChild(a)}
+    if(m.media){var a=document.createElement("div");a.className="acts";var bt=document.createElement("button");bt.className="v";bt.textContent=isVid(m.media)?"▶ Watch video":"📷 View photo";bt.onclick=function(){openLb(m.media,m.caption||m.title)};a.appendChild(bt);li.appendChild(a)}
     ul.appendChild(li)});
   var g=$("gal");g.innerHTML="";var gl=D.gallery||[];
   if(!gl.length)g.innerHTML='<div class="empty">Photos will appear here soon.</div>';
